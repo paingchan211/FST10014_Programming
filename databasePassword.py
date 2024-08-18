@@ -1,0 +1,1 @@
+database_password = "password" # please replace this with your own password when you initialize MySQL server
